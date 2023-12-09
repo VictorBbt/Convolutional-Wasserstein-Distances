@@ -25,7 +25,6 @@ To run it, download the *Code* and the *data* folder in the same directory, and 
 
 ### Authors
 
-[Hippolyte Pilchen](https://github.com/HipPilchen)
-[Victor Barberteguy](https://github.com/VictorBbt)
+[Hippolyte Pilchen](https://github.com/HipPilchen) - ENS Paris Scalay and [Victor Barberteguy](https://github.com/VictorBbt) - Institut Polytechnique de Paris
 
 Feel free to reach us if you have any questions! (mail addresses are indicated in the report)
