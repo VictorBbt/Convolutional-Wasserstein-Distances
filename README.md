@@ -3,9 +3,9 @@
 This is the repository containing the work done for the final project of the *Geometric Data Analysis* course given by Prof. Feydy at the MVA Master (ENS Paris-Saclay).
 
 <p align="center">
-  <img src="[image1.jpg](https://github.com/VictorBbt/Convolutional-Wassertein-Distances/blob/main/img/Graph_Inter.png)" width="250" alt="Image 1">
-  <img src="image2.jpg" width="250" alt="Image 2">
-  <img src="image3.jpg" width="250" alt="Image 3">
+  <img src="https://github.com/VictorBbt/Convolutional-Wassertein-Distances/blob/main/img/Graph_Inter.png" width="280" alt="Image 1">
+  <img src="https://github.com/VictorBbt/Convolutional-Wassertein-Distances/blob/main/img/barycenter_images.png" width="250" alt="Image 2">
+  <img src="https://github.com/VictorBbt/Convolutional-Wassertein-Distances/blob/main/img/diffuse3D.png" width="200" alt="Image 3">
 </p>
 
 ### Abstract of the project 
