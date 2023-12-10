@@ -3,9 +3,9 @@
 This is the repository containing the work done for the final project of the *Geometric Data Analysis* course given by Prof. Feydy at the MVA Master (ENS Paris-Saclay).
 
 <p align="center">
-  <img src="image1.jpg" width="250" alt="Image 1">
-  <img src="image2.jpg" width="250" alt="Image 2">
-  <img src="image3.jpg" width="250" alt="Image 3">
+  <img src="https://github.com/VictorBbt/Convolutional-Wassertein-Distances/blob/main/img/Graph_Inter.png" width="280" alt="Image 1">
+  <img src="https://github.com/VictorBbt/Convolutional-Wassertein-Distances/blob/main/img/barycenter_images.png" width="250" alt="Image 2">
+  <img src="https://github.com/VictorBbt/Convolutional-Wassertein-Distances/blob/main/img/diffuse3D.png" width="200" alt="Image 3">
 </p>
 
 ### Abstract of the project 
@@ -25,7 +25,6 @@ To run it, download the *Code* and the *data* folder in the same directory, and 
 
 ### Authors
 
-[Hippolyte Pilchen](https://github.com/HipPilchen)
-[Victor Barberteguy](https://github.com/VictorBbt)
+[Hippolyte Pilchen](https://github.com/HipPilchen) - ENS Paris Scalay and [Victor Barberteguy](https://github.com/VictorBbt) - Institut Polytechnique de Paris
 
 Feel free to reach us if you have any questions! (mail addresses are indicated in the report)
